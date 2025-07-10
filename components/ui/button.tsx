@@ -46,7 +46,10 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(
             children as React.ReactElement<{ className?: string }>,
             {
                 ...props,
-                className: cn(classNames, (children as any).props?.className),
+                className: cn(
+                    classNames,
+                    (children as React.ReactElement<{ className?: string }>).props.className
+                ),
             }
         );
     }
