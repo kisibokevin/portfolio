@@ -1,0 +1,16 @@
+<svg width="300" height="340" viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <style>
+    .text {
+      font-family: 'Courier New', monospace;
+      font-size: 16px;
+      fill: black;
+    }
+  </style>
+
+  <!-- Outer hexagon frame-like path -->
+  <path d="M30 30 L30 210 L90 150 L150 210 L210 150 L210 30 L150 90 L90 30 Z"
+        stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Text below the logo -->
+  <text x="50%" y="320" text-anchor="middle" class="text">Kevin Newton Kisibo</text>
+</svg>
