@@ -6,9 +6,9 @@ const Contact = () => {
     return (
         <section id="contact" className="py-20 px-4 bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white">
             <div className="max-w-4xl mx-auto text-center">
-                <h2 className="text-4xl font-bold mb-4">Let's Work Together</h2>
+                <h2 className="text-4xl font-bold mb-4">Let&apos;s Work Together</h2>
                 <p className="text-xl text-gray-300 mb-12">
-                    I'm always open to discussing new opportunities and interesting projects
+                    I&apos;m always open to discussing new opportunities and interesting projects
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-8">

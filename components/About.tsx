@@ -19,7 +19,7 @@ const About = () => {
                 <div className="text-center mb-16">
                     <h2 className="text-4xl font-bold text-gray-900 mb-4">About Me</h2>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                    I'm a passionate full-stack developer with 5+ years of experience building scalable web applications. 
+                    I&apos;m a passionate full-stack developer with 5+ years of experience building scalable web applications. 
                     I love turning complex problems into simple, beautiful designs.
                     </p>
                 </div>
@@ -29,7 +29,7 @@ const About = () => {
                         <h3 className="text-2xl font-semibold text-gray-900 mb-4">My Expertise</h3>
                         <p className="text-gray-600 leading-relaxed">
                             With a strong foundation in both front-end and back-end technologies, I specialize in creating 
-                            seamless user experiences backed by robust server architectures. I'm particularly passionate 
+                            seamless user experiences backed by robust server architectures. I&apos;m particularly passionate 
                             about React, Node.js, and modern web technologies.
                         </p>
                         <div className="flex items-center gap-4">

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import clsx from 'clsx';
 import ThemeToggle from './ThemeToggle';
