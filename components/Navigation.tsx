@@ -41,8 +41,9 @@ const Navigation = () => {
                         className="flex text-lg items-center gap-2 cursor-pointer font-semibold text-gray-800 dark:text-gray-100 hover:text-blue-600"
                         onClick={() => scrollToSection('home')}
                     >
-                        <Image src="/logo v2-01.png" alt="Logo" width={40} height={40} />
-                        <h3 className=" ">Kevin Newton Kisibo</h3>
+                        <Image src="/Logo Version 1-01.svg" alt="Logo" width={50} height={50} />
+                        
+                        {/* <h3 className=" ">Kevin Newton Kisibo</h3> */}
                     </div>
                     
 
