@@ -8,7 +8,7 @@ const Contact = () => {
             <div className="max-w-4xl mx-auto text-center">
                 <h2 className="text-4xl font-bold text-white dark:text-gray-100 mb-4">Collaborate on Your Next Project</h2>
                 <p className="text-lg md:text-xl text-gray-300 dark:text-gray-200 mb-12">
-                    Ready to build a high-performance web app or solve a complex technical challenge? Let&apps;s connect and bring your vision to life.
+                    Ready to build a high-performance web app or solve a complex technical challenge? Let&apos;s connect and bring your vision to life.
                 </p>
 
                 <div className="grid md:grid-cols-2 gap-8">
