@@ -89,7 +89,7 @@ const Hero = () => {
             </div>
             <div className={`relative z-10 text-center px-4 transition-all duration-1000 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
                 <h1 className="text-4xl md:text-7xl font-bold text-gray-900 dark:text-gray-100 mb-6 leading-tight">
-                    Hey, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400 dark:from-blue-300 dark:to-purple-300">Kevin Newton</span>
+                    Hey, I&apos;m <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400 dark:from-blue-300 dark:to-purple-300">Kevin Newton</span>
                 </h1>
                 <p className="text-base md:text-lg text-gray-600 dark:text-gray-300 mb-4 italic">
                     Turning complex challenges into elegant, user-focused solutions.
